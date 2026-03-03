@@ -12,7 +12,7 @@ I am a Computer Science Engineering student at **IET DAVV, Indore**, passionate 
 * 🛠️ **Building:** Scalable backend systems and AI-driven applications.
 * 💡 **Exploring:** System Design, DevOps, and Automation Engineering.
 * 🧩 **Sharpening:** 150+ problems solved on competitive programming platforms.
-* 📫 **Reach Me:** [srt.sm8177@gmail.com] | [https://www.linkedin.com/in/sarthak-geete?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+* 📫 **Reach Me:** [srt.sm8177@gmail.com] | [https://www.linkedin.com/in/sarthak-geete]
 
 ---
 
@@ -46,7 +46,7 @@ I am a Computer Science Engineering student at **IET DAVV, Indore**, passionate 
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Sarthak07M&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Sarthak's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sarthak07M &show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Sarthak's GitHub Stats" />
 </p>
 
 ---
