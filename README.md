@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hey there, I'm Sarthak Geete 👋
 
-<!--
-**Sarthak07M/Sarthak07M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2nd Year B.Tech CSE Student | Backend Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Computer Science Engineering student at **IET DAVV, Indore**, passionate about solving complex problems and building tech that makes a difference. I'm currently diving deep into backend architectures and the potential of Artificial Intelligence.
+
+* 🎓 **Learning:** Advanced Java, Spring Boot, and Machine Learning models.
+* 🛠️ **Building:** Scalable backend systems and AI-driven applications.
+* 💡 **Exploring:** System Design, DevOps, and Automation Engineering.
+* 🧩 **Sharpening:** 150+ problems solved on competitive programming platforms.
+* 📫 **Reach Me:** [srt.sm8177@gmail.com] | [https://www.linkedin.com/in/sarthak-geete?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js" />
+  </a>
+</p>
+
+### Frameworks & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,mysql,git,github,vscode,eclipse,linux" />
+  </a>
+</p>
+
+---
+
+## 🏆 Achievements & Projects
+
+* **Arcade Ranger** @ Google Cloud Arcade (96 Skill Badges | 500+ Labs)
+* **Smart India Hackathon** Participant – Developed an AI Chatbot project.
+* **AI-Driven Financial Fraud Detection** – Hackathon project for real-time security.
+* **Cosmic Tasks** – A dynamic full-stack To-Do List web application.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Sarthak07M&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Sarthak's GitHub Stats" />
+</p>
+
+---
+
+*“Technology should not just exist, it should empower.”*
