@@ -43,7 +43,6 @@ I am a Computer Science Engineering student at **IET DAVV, Indore**, passionate 
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -53,7 +52,7 @@ I am a Computer Science Engineering student at **IET DAVV, Indore**, passionate 
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Sarthak07M&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Sarthak07M&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
