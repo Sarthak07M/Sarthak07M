@@ -46,7 +46,7 @@ I am a Computer Science Engineering student at **IET DAVV, Indore**, passionate 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarthak07M&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sarthak07M&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
