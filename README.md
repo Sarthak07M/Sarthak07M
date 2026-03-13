@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarthak Geete</h1>
-<h3 align="center">🚀 Backend Developer | AI/ML Enthusiast | B.Tech CSE @ IET DAVV</h3>
+<h3 align="center">🚀 Backend Developer | B.Tech CSE @ IET DAVV</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+Developer;AI%2FML+Enthusiast;Open+Source+Learner;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+Developer;Open+Source+Learner;Future+Software+Engineer"/>
 </p>
 
 ---
