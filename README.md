@@ -17,7 +17,6 @@
 - 🧠 Practicing **DSA & System Design**
 - 💻 Building **Backend Systems & AI Applications**
 - 🧩 Solved **150+ DSA problems**
-- 🎯 Goal: Work at **Google / Microsoft**
 
 📫 **Reach me:**  
 📧 srt.sm8177@gmail.com  
